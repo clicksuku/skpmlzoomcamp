@@ -541,7 +541,7 @@
                 "sha256:7e8cee469a8ab2352911528110ce9088fdc6a37d9876926e73da7ce4aa4c7a46"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==0.48.0"
+            "version": "==0.49.0"
         },
         "threadpoolctl": {
             "hashes": [
@@ -600,7 +600,7 @@
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==0.9.5"
+            "version": "==0.9.6"
         },
         "uvicorn": {
             "hashes": [
